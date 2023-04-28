@@ -30,9 +30,9 @@ const Slider = () => {
               <li className="active">
                 <a href="#">EN</a>
               </li>
-              <li>
+              {/* <li>
                 <a href="#">ES</a>
-              </li>
+              </li> */}
             </ul>
           </div>
         </div>
