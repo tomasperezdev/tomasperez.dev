@@ -11,8 +11,8 @@ import Map from "../../components/contact/Map";
 import Footer from "../../components/footer/Footer";
 import useDocumentTitle from "../../components/useDocumentTitle";
 
-const HomeLightSidebarTwo = () => {
-  useDocumentTitle("Nairo || Sidebar Two React Personal Portfolio Template");
+const HomeDarkParticles = () => {
+  useDocumentTitle("It's me Tomás!");
   return (
     <div className="main-left theme-dark">
       <Header />
@@ -57,7 +57,7 @@ const HomeLightSidebarTwo = () => {
 
             <div className="col-lg-7 ml-auto m-15px-tb  ">
               <div className="contact-form">
-                <h4>Say Something</h4>
+                <h4>Get in touch!</h4>
                 <Contact />
               </div>
             </div>
@@ -83,4 +83,4 @@ const HomeLightSidebarTwo = () => {
   );
 };
 
-export default HomeLightSidebarTwo;
+export default HomeDarkParticles;

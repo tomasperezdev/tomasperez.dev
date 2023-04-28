@@ -2,32 +2,10 @@
 
 ## Description
 
-Setup Procedure
+Personal Portfolio Website
 
 ## Project setup
 
 ```
-npm install
+Made with <3 with ReactJS
 ```
-
-### Compiles and hot-reloads for development
-
-```
-npm run start
-```
-
-### Compiles and minifies for production
-
-```
-npm run build
-```
-
-### Lints and fixes files
-
-```
-npm run lint
-```
-
-### Customize configuration (vue-cli)
-
-See [Configuration Reference](https://cli.vuejs.org/config/).

@@ -2,23 +2,60 @@ import React from "react";
 
 const AwardContnet = [
   {
-    img: "a1",
-    awardName: "Creative Designer",
-    awardFor: "Site of the day",
+    img: "s1",
+    awardName: "React Native",
+    awardFor: "Mobile Applications",
     delayAnimation: "0",
   },
   {
-    img: "a2",
-    awardName: "Yearly Best Performer",
-    awardFor: "Site of the day",
+    img: "s2",
+    awardName: "React JS",
+    awardFor: "Web Implementations",
     delayAnimation: "200",
   },
   {
-    img: "a3",
-    awardName: "Best Learner Award",
-    awardFor: "Site of the day",
+    img: "s3",
+    awardName: "Angular",
+    awardFor: "Mobile and Web Applications",
     delayAnimation: "400",
   },
+  {
+    img: "s7",
+    awardName: "NodeJS",
+    awardFor: "Backend Implementations",
+    delayAnimation: "400",
+  },
+  {
+    img: "s8",
+    awardName: "Jest",
+    awardFor: "Unit Testing",
+    delayAnimation: "400",
+  },
+  {
+    img: "s6",
+    awardName: "Firebase",
+    awardFor: "No Relational Databases",
+    delayAnimation: "400",
+  },
+  {
+    img: "s4",
+    awardName: "PHP",
+    awardFor: "Middleware webservices",
+    delayAnimation: "400",
+  },
+  {
+    img: "s5",
+    awardName: "MYSQL",
+    awardFor: "Relational Databases",
+    delayAnimation: "400",
+  },
+  {
+    img: "s9",
+    awardName: "AngularJS",
+    awardFor: "Legacy Projects",
+    delayAnimation: "400",
+  },
+
 ];
 
 const Awards = () => {

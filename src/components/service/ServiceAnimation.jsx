@@ -3,23 +3,20 @@ import React from "react";
 const ServiceContent = [
   {
     icon: "icon-mobile",
-    title: "Web Design",
-    descriptions: `Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-    eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    title: "Mobile Applications",
+    descriptions: `I use a large varity of Javascript based Frameworks to create stunning and functional mobile applications both for business and end users.`,
     delayAnimation: "",
   },
   {
     icon: "icon-desktop",
-    title: "Web Development",
-    descriptions: `Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-    eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    title: "Websites / E-Commerce",
+    descriptions: `I create web implementations with code and no code approaches depending on the clients needs. Take a look at my portfolio to see some of my work.`,
     delayAnimation: "200",
   },
   {
-    icon: "icon-target",
-    title: "Seo Marketing",
-    descriptions: `Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-    eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    icon: "icon-strategy",
+    title: "Coaching / Consulting",
+    descriptions: `I'm a Personal Finances enthusiast. I have plenty of educational content on all my social media, online courses and I do personalized coaching as well.`,
     delayAnimation: "400",
   },
 ];

@@ -3,62 +3,56 @@ import Skills from "../skills/Skills";
 
 const resumeContent = [
   {
-    jobPosition: `Sr. Front-end Engineer`,
-    jobType: `Google | Remote`,
-    jobDuration: `Feb 2021 - Present`,
+    jobPosition: `Sr. Software Engineer`,
+    jobType: `Luxoft Canada | Remote`,
+    jobDuration: `Jun 2022 - Present`,
     timeDuraton: `Full Time`,
-    compnayName: "Google LLC",
-    jobDescription: `Adipisicing Lorem ipsum dolor sit amet, consectetur elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna
-    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor.`,
+    compnayName: "Luxoft Canada",
+    jobDescription: `Senior Software Engineer working with React Native to support and develop a mobile application
+     based on six different GitHub repositories and using an internal package library system to incorporate both independent
+      packages and other-libraries-wrap packages to have a final end-user product live in the app stores.`,
     delayAnimation: "",
   },
   {
-    jobPosition: `Visual Designer`,
-    jobType: `Ridian | Remote`,
-    jobDuration: `Mar 2020 - Present`,
-    timeDuraton: `Part Time`,
-    compnayName: "Ridian IT",
-    jobDescription: `Ut enim ad minim veniam, quis nostrud exercitation ullamco
-    laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-    irure dolor. Lorem ipsum dolor sit amet, consectetur
-    adipisicing elit, sed do eiusmod tempor incididunt ut
-    labore et dolore magna aliqua.`,
+    jobPosition: `Sr. Software Engineer`,
+    jobType: `Luxoft México | Remote`,
+    jobDuration: `Dic 2021 - Jun 22`,
+    timeDuraton: `Full Time`,
+    compnayName: "Luxoft México",
+    jobDescription: `Senior Software Engineer working with React Native to support and develop a mobile application 
+    based on six different GitHub repositories and using an internal package library system to incorporate both independent
+     packages and other-libraries-wrap packages to have a final end-user product live in the app stores..`,
     delayAnimation: "100",
   },
   {
-    jobPosition: `Animation Artist`,
-    jobType: `IbThemes | Remote`,
-    jobDuration: `Jan 2019 - Present`,
+    jobPosition: `Co-Founder & CTO`,
+    jobType: `GYO Solutions`,
+    jobDuration: `Jun 2014 - Dec 2021`,
     timeDuraton: `Full Time`,
-    compnayName: "IB Themes",
-    jobDescription: ` Consectetur adipisicing elit,lorem ipsum dolor sit amet,
-    sed do eiusmod tempor incididunt ut labore et dolore magna
-    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor.`,
+    compnayName: "GYO Solutions",
+    jobDescription: `I co-founded GYO Solutions in 2014 and worked in the Development department of a Software Factory company
+     handling projects using technologies from Phonegap, Swift, Ionic, and AngularJS to newer frameworks such as Angular 8 and React.
+      Also, we used multiple database and web services infrastructures as it was project dependant, like PHP and MYSQL or Firebase for a serverless approach.`,
     delayAnimation: "200",
   },
 ];
 
 const educatonContent = [
   {
-    passingYear: "2018-2020",
-    degreeTitle: "Ph.D in Horriblensess",
-    instituteName: "University Of Evil Doing",
+    passingYear: "2021",
+    degreeTitle: "Professional Scrum Master™ I (PSM I)",
+    instituteName: "Scrum.org",
   },
   {
-    passingYear: "2013-2016",
-    degreeTitle: "Bsc. in Computer Science",
-    instituteName: "World University",
+    passingYear: "2017-2019",
+    degreeTitle: "MBA in Business Management",
+    instituteName: "ITESM",
   },
   {
-    passingYear: "2010-2012",
-    degreeTitle: "Graphic Artist Training ",
-    instituteName: "Graphic Master Institute",
-  },
+    passingYear: "2010-2014",
+    degreeTitle: "Bsc. in Computer Engineering",
+    instituteName: "ITESM",
+  }
 ];
 
 const Resume = () => {

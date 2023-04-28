@@ -18,7 +18,7 @@ const About = () => {
               <div className="about-me">
                 <div className="img">
                   <div className="img-in">
-                    <img src="img/about/about-me.jpg" alt="about" />
+                    <img src="img/about/aboutme.png" alt="about" />
                   </div>
 
                   <Social />
@@ -27,8 +27,8 @@ const About = () => {
                 </div>
                 {/* End img */}
                 <div className="info">
-                  <p>Ux/Ui Designer</p>
-                  <h3>Nairobi Gadot</h3>
+                  <p>Senior Software Engineer</p>
+                  <h3>Tomás Pérez</h3>
                 </div>
                 {/* End info */}
               </div>
@@ -49,16 +49,15 @@ const About = () => {
 
                 <div className="about-text">
                   <p>
-                    I'm a Freelancer Front-end Developer with over 3 years of
-                    experience. I'm from San Francisco. I code and create web
-                    elements for amazing people around the world. I like work
+                    I'm a Senior Software Engineer Freelancer with over 8 years of
+                    experience. I'm from Colombia, living currently in Canada. I code and create web and mobile
+                    implementations for a living. I like work
                     with new people. New people new Experiences.
                   </p>
                   <p>
-                    I'm a Freelancer Front-end Developer with over 3 years of
-                    experience. I'm from San Francisco. I code and create web
-                    elements for amazing people around the world. I like work
-                    with new people. New people new Experiences.
+                    At the moment I'm focused on developing my leardship and technical skills. 
+                    I'm always looking for new challenges and opportunities to grow as a professional.
+                    Feel free to contact me if you have any questions or if you want to work with me.
                   </p>
                 </div>
                 <div className="info-list">
@@ -67,39 +66,39 @@ const About = () => {
                       <ul>
                         <li>
                           <label>Name: </label>
-                          <span>Nairobi Gadot</span>
+                          <span>Tomás Pérez</span>
                         </li>
                         <li>
                           <label>Birthday: </label>
-                          <span>4th April 1994</span>
+                          <span>27th August 1991</span>
                         </li>
                         <li>
                           <label>Age: </label>
-                          <span>26 years</span>
+                          <span>31 years</span>
                         </li>
                         <li>
-                          <label>Address: </label>
-                          <span>San Francisco</span>
+                          <label>City: </label>
+                          <span>Vancouver, Canada</span>
                         </li>
                       </ul>
                     </div>
                     <div className="col-sm-6">
                       <ul>
                         <li>
-                          <label>Phone: </label>
-                          <span>(+38) 469 2344 2364</span>
-                        </li>
-                        <li>
                           <label>Email: </label>
-                          <span>info@domainname.com</span>
+                          <span>tppshaka77@gmail.com</span>
                         </li>
                         <li>
-                          <label>Skype: </label>
-                          <span>nairob.40</span>
+                          <label>Contact: </label>
+                          <span>@tppshaka77</span>
+                        </li>
+                        <li>
+                          <label>Employed: </label>
+                          <span>Full Time</span>
                         </li>
                         <li>
                           <label>Freelance: </label>
-                          <span>Available</span>
+                          <span className="highlighted">Available</span>
                         </li>
                       </ul>
                     </div>
@@ -142,7 +141,7 @@ const About = () => {
           {/* End separated */}
 
           <div className="title">
-            <h3>Awards.</h3>
+            <h3>My Stack.</h3>
           </div>
 
           <Awards />
@@ -159,11 +158,11 @@ const About = () => {
           ></div>
           {/* End separated */}
 
-          <div className="title">
+         {/*  <div className="title">
             <h3>Testimonials.</h3>
           </div>
 
-          <Testimonials />
+          <Testimonials /> */}
           {/* End Testimonaial */}
         </div>
       </section>
