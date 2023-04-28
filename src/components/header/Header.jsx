@@ -101,7 +101,7 @@ const Header = () => {
                 </ReactTooltip>
               </a>
             </li>
-            <li>
+            {/* <li>
               <a
                 className="nav-link"
                 href="#work"
@@ -138,7 +138,7 @@ const Header = () => {
                   <span>Blog</span>
                 </ReactTooltip>
               </a>
-            </li>
+            </li> */}
             <li>
               <a
                 className="nav-link"

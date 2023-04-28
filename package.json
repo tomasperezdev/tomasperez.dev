@@ -1,12 +1,13 @@
 {
-  "name": "nairo",
-  "version": "1.1.8",
+  "name": "tomasperezdev",
+  "version": "0.0.1",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "aos": "^2.3.4",
+    "gh-pages": "^5.0.0",
     "photoswipe": "^5.3.4",
     "react": "^18.1.0",
     "react-animated-cursor": "^2.2.0",
@@ -32,11 +33,13 @@
     "slick-carousel": "^1.8.1",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://tomasperez.dev/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
