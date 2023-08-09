@@ -11,8 +11,8 @@ import {
 const SocialShare = [
   { Social: <FaTwitter />, link: "https://twitter.com/tppshaka77" },
   { Social: <FaLinkedinIn />, link: "https://www.linkedin.com/in/tppshaka77" },
-  { Social: <FaGit />, link: "https://www.github.com/tomasperezposada" },
-  { Social: <FaYoutube />, link: "https://www.github.com/tomasperezposada" },
+  { Social: <FaGit />, link: "https://www.github.com/tomasperezdev" },
+  { Social: <FaYoutube />, link: "https://www.youtube.com/channel/UCSFefKn0zOBvUagnDaetYJw" },
   { Social: <FaInstagram />, link: "https://instagram.com/tppshaka77" },
   
 ];

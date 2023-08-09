@@ -10,7 +10,7 @@ import {
 const SocialShare = [
   { Social: <FaTwitter />, link: "https://twitter.com/tppshaka77" },
   { Social: <FaLinkedinIn />, link: "https://www.linkedin.com/in/tppshaka77" },
-  { Social: <FaGitSquare />, link: "https://www.github.com/tomasperezposada" },
+  { Social: <FaGitSquare />, link: "https://www.github.com/tomasperezdev" },
   { Social: <FaInstagram />, link: "https://instagram.com/tppshaka77" },
   { Social: <FaDiscord />, link: "https://discordapp.com/users/258065994633707520" },
 
