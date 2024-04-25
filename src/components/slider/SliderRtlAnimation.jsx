@@ -12,7 +12,7 @@ const sliderContent = {
   description: `I design and develop services for customers of all sizes,
   specializing in creating stylish, modern websites, web
   services and online stores.`,
-  btnText: " Donwload CV",
+  btnText: " Download CV",
 };
 
 const SliderRtlAnimation = () => {

@@ -10,7 +10,7 @@ const sliderContent = {
   name: "Tomás Pérez",
   designation: "Full-stack Software Engineer",
   description: `I'm passionate about the continous improvement of our reality trough technology.`,
-  btnText: " Donwload CV",
+  btnText: " Download CV",
 };
 
 const Slider = () => {
